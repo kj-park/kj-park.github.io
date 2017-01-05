@@ -4,7 +4,7 @@
 
 <table>
     <tr>
-        <td><img src="{{site.url}}/images/kj-park+profile.jpg"></td>
+        <td><img src="images/kj-park+profile.jpg"></td>
         <td>
             <h1><span class="full-name">Kyoung Joon Park</span></h1>
             <p class="title" dir="ltr">Expert for Active Directory, Windows Server and Exchange</p>
