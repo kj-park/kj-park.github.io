@@ -13,6 +13,6 @@ defaults:
             path: "projects"
             type: "page"
         values:
-            layout: "project"
+            layout: "projects"
             author: "kj-park"
             category: "project"
