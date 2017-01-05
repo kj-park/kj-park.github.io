@@ -1,42 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kj-park/kj-park.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kj-park/kj-park.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|![kj-park profile](images/kj-park+profile.jpg)
 
 
 
 
-[foo project](projects\foo_project.html)
+
+
+Work as the Customer-visible engineer of Premier Support resolution and find a challenging and responsible position that will utilize and enhance my knowledge and skills.
+
+In Microsoft Korea CSS (Premier Customer Support Organization), work at Platform Server Team as Contingent staff. 
+- Support System Management Server and Windows Server platforms.
+
+전문 분야: Solid knowledge about the most services' internal logic of the Windows Server (NT, Win 2000, Win 2003, Win 2008 and Win 2012). 
+
+Fluent Experience of troubleshooting the issues which are related with Windows Server Technologies. 
+
+Knowledge about MS-SQL, Exchange, System Center  and Forefront
+
+English communication skill for discussing technical issues in reading and writing. 
+
+Understand and write the script about WMI, Windows Powershell and ADSI
+
+Understand the C# application code
