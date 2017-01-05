@@ -1,14 +1,18 @@
 theme: jekyll-theme-cayman
 timezone: Asia/Seoul
 encoding: utf-8
----
 defaults:
-  -
-    scope:
-      path: "projects"
-      type: "page"
-    values:
-      layout: "project"
-      author: "kj-park"
-      category: "project"
----
+    - 
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: "posts"
+    -
+        scope:
+            path: "projects"
+            type: "page"
+        values:
+            layout: "project"
+            author: "kj-park"
+            category: "project"
