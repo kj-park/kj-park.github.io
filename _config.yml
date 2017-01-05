@@ -4,7 +4,7 @@ encoding: utf-8
 defaults:
     - 
         scope:
-            path: ""
+            path: "_posts"
             type: "posts"
         values:
             layout: "posts"
