@@ -1,8 +1,13 @@
 theme: jekyll-theme-cayman
 timezone: Asia/Seoul
+---
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "projects"
+      type: "page"
     values:
-      layout: "default"
+      layout: "project"
+      author: "kj-park"
+      category: "project"
+---
