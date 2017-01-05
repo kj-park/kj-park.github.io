@@ -1,5 +1,0 @@
----
-author: "kj-park"
-layout: "foobar"
----
-The post text goes here...
