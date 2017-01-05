@@ -1,11 +1,4 @@
 
-|![kj-park profile](images/kj-park+profile.jpg)
-
-
-
-
-
-
 Work as the Customer-visible engineer of Premier Support resolution and find a challenging and responsible position that will utilize and enhance my knowledge and skills.
 
 In Microsoft Korea CSS (Premier Customer Support Organization), work at Platform Server Team as Contingent staff. 
