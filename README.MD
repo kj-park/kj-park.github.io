@@ -157,8 +157,8 @@ Understand the C# application code
     <dt>Restructuring and migrating Active Directory for lafarge halla cement</dt>
     <dd>2011년 8월 – 2011년 12월</dd>
     <dd>
-        <p>this project is restructuring active directory domains between forests. source and target domain is sub domain in each forest and target forest is the global active directory. </br>
-        This project contain user and group accounts migration, file server migration and clients migration</br>
+        <p>this project is restructuring active directory domains between forests. source and target domain is sub domain in each forest and target forest is the global active directory. <br />
+        This project contain user and group accounts migration, file server migration and clients migration<br />
         Perform As Project Manager and main Architect for Active Directory.</p>
     </dd>
 </dl>
@@ -187,7 +187,7 @@ Understand the C# application code
     <dt>All Systems based on Windows Server , SQL and Exchange Upgrade and Migration for Inje University Paik Hospital</dt>
     <dd>2008년 5월</dd>
     <dd>
-        <p>For Inje University Paik Hospital (include busan, haeundae, sanggye, ilsan), All Windows based Systems, Upgrade and Migration from Windows 2000 or 2003 based systems to Windows 2003 or Windows 2008 based systems.</br>
+        <p>For Inje University Paik Hospital (include busan, haeundae, sanggye, ilsan), All Windows based Systems, Upgrade and Migration from Windows 2000 or 2003 based systems to Windows 2003 or Windows 2008 based systems.<br />
         This Project was also include SQL Servers and Exchange Servers.</p>
     </dd>
 </dl>
@@ -217,8 +217,8 @@ Understand the C# application code
     <dt>Deployments, Migrations, Upgrade AD and Exchange Server Infra for many company</dt>
     <dd></dd>
     <dd>
-        <p>for Yes24, Panko, World Construction, Jungbu CityGas, Yokogawa Electric Korea and Etc, Deployments, Migrations, Upgrade AD and Exchange Server Infra. </br>
-        AD Infra was based on Windows 2000, Windows 2003, and Windows 2008.</br>
+        <p>for Yes24, Panko, World Construction, Jungbu CityGas, Yokogawa Electric Korea and Etc, Deployments, Migrations, Upgrade AD and Exchange Server Infra. <br />
+        AD Infra was based on Windows 2000, Windows 2003, and Windows 2008.<br />
         Exchange Infra was based on Exchange 2000, Exchange 2003, Exchange 2007, and Exchange 2010.</p>
     </dd>
 </dl>
