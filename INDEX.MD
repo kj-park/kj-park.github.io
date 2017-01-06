@@ -22,7 +22,7 @@ layout: default
     </tr>
 </table>
 
-## Summary profile
+# Summary profile
 
 Work as the Customer-visible engineer of Premier Support resolution and find a challenging and responsible position that will utilize and enhance my knowledge and skills.
 
@@ -42,7 +42,7 @@ Understand and write the script about WMI, Windows Powershell and ADSI
 Understand the C# application code
 
 
-## Project Portfolio
+# Project Portfolio
 
 <dl>
     <dt>AD and Exchange (to 2013 from 2010) Migration for Kyoung Bo pharm. inc</dt>

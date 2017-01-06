@@ -8,13 +8,6 @@ encoding: utf-8
 defaults:
     - 
         scope:
-            path: ""
-            type: "page"
-        values:
-            layout: "pages"
-            category: "page"
-    - 
-        scope:
             path: "_posts"
             type: "posts"
         values:
