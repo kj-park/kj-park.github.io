@@ -2,7 +2,7 @@ title: [Welcome My Portfolio Site]
 description: [This Site is for sharing my technical careers and my project portfolio.]
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: #jekyll-theme-cayman
 timezone: Asia/Seoul
 encoding: utf-8
 defaults:
@@ -12,7 +12,7 @@ defaults:
             type: "posts"
         values:
             layout: "posts"
-            category: "post"
+            category: "posts"
     -
         scope:
             path: "projects"
@@ -20,4 +20,4 @@ defaults:
         values:
             layout: "projects"
             author: "kj-park"
-            category: "project"
+            category: "projects"
