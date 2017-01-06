@@ -1,6 +1,6 @@
 ---
 author: "kj-park"
-layout: "projects"
+layout: "posts"
 ---
 ### Jekyll Themes
 
