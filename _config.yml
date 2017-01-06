@@ -16,7 +16,7 @@ defaults:
     -
         scope:
             path: "projects"
-            type: "page"
+            type: "pages"
         values:
             layout: "projects"
             author: "kj-park"

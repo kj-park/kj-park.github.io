@@ -1,6 +1,6 @@
 ---
 author: "kj-park"
-layout: "foobar"
+layout: "projects"
 ---
 ### Jekyll Themes
 
