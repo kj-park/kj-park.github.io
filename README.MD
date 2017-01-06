@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Welcome My Portfolio Site !
 
