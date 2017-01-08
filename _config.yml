@@ -19,3 +19,10 @@ defaults:
             layout: "projects"
             author: "kj-park"
             category: "projects"
+    -
+        scope:
+            path: "drafts"
+            type: "pages"
+        values:
+            layout: "drafts"
+            category: "pages"
