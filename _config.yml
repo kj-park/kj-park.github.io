@@ -21,8 +21,8 @@ defaults:
             category: "projects"
     -
         scope:
-            path: "drafts"
+            path: "pages"
             type: "pages"
         values:
-            layout: "drafts"
+            layout: "pages"
             category: "pages"

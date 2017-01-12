@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 ---
 
 # Welcome My Portfolio Site ! (README.MD)
