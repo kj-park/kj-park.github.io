@@ -1,33 +1,33 @@
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
-<ul class="w3-navbar w3-white" id="NavBar">
+<ul class="w3-navbar w3-light-blue" id="NavBar">
     <li>
-    <a href="#home" class="w3-wide">KJPARK</a>
+    <a href="#home" class="w3-wide w3-text-white">KJPARK</a>
     </li>
     <!-- Right-sided navbar links -->
     <li class="w3-right w3-hide-small">
-    <a href="#about"><i class="fa fa-user"></i> ABOUT</a>
-    <a href="#profile"><i class="fa fa-cubes"></i> PROFILE</a>
-    <a href="#project"><i class="fa fa-cubes"></i> PROJECT</a>
-    <a href="#blog"><i class="fa fa-share-alt"></i> BLOG</a>
-    <a href="#contact"><i class="fa fa-address-card"></i> CONTACT</a>
+    <a href="#about" class="w3-text-white"><i class="fa fa-user"></i> ABOUT</a>
+    <a href="#profile" class="w3-text-white"><i class="fa fa-cubes"></i> PROFILE</a>
+    <a href="#project" class="w3-text-white"><i class="fa fa-cubes"></i> PROJECT</a>
+    <a href="#blog" class="w3-text-white"><i class="fa fa-share-alt"></i> BLOG</a>
+    <a href="#contact" class="w3-text-white"><i class="fa fa-address-card"></i> CONTACT</a>
     </li>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
     <li>
     <a href="javascript:void(0)" class="w3-right w3-hide-large w3-hide-medium" onclick="SideNav_open()">
-        <i class="fa fa-bars w3-padding-right w3-padding-left"></i>
+        <i class="fa fa-bars w3-padding-right w3-padding-left w3-text-white"></i>
     </a>
     </li>
 </ul>
 <!-- SideNav on small screens when clicking the menu icon -->
-<nav class="w3-sidenav w3-indigo w3-card-2 w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="SideNav">
-<a href="javascript:void(0)" onclick="SideNav_close()" class="w3-large w3-padding-16">Close X</a>
-<a href="#about" onclick="SideNav_close()"><i class="fa fa-user"></i> ABOUT</a>
-<a href="#profile" onclick="SideNav_close()"><i class="fa fa-cubes"></i> PROFILE</a>
-<a href="#project" onclick="SideNav_close()"><i class="fa fa-cubes"></i> PROJECT</a>
-<a href="#blog" onclick="SideNav_close()"><i class="fa fa-share-alt"></i> BLOG</a>
-<a href="#contact" onclick="SideNav_close()"><i class="fa fa-address-card"></i> CONTACT</a>
+<nav class="w3-sidenav w3-light-blue w3-card-2 w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="SideNav">
+<a href="javascript:void(0)" onclick="SideNav_close()" class="w3-large w3-padding-16 w3-text-white">Close X</a>
+<a href="#about" onclick="SideNav_close()" class="w3-text-white"><i class="fa fa-user"></i> ABOUT</a>
+<a href="#profile" onclick="SideNav_close()" class="w3-text-white"><i class="fa fa-cubes"></i> PROFILE</a>
+<a href="#project" onclick="SideNav_close()" class="w3-text-white"><i class="fa fa-cubes"></i> PROJECT</a>
+<a href="#blog" onclick="SideNav_close()" class="w3-text-white"><i class="fa fa-share-alt"></i> BLOG</a>
+<a href="#contact" onclick="SideNav_close()" class="w3-text-white"><i class="fa fa-address-card"></i> CONTACT</a>
 </nav>
 </div>
 <script>
@@ -38,6 +38,7 @@
             SideNav.style.display = 'none';
         } else {
             SideNav.style.display = 'block';
+            SideNav.style.zIndex = 5;
         }
     }
 
