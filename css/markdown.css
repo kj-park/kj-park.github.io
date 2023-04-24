@@ -9,7 +9,7 @@ html {
 
 body {
     margin:0;
-    width: auto;
+    width: 100%;
     padding: 0;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
@@ -17,6 +17,7 @@ body {
     color: #606c71;
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
 h1,
