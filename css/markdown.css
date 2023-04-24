@@ -9,13 +9,13 @@ html {
 
 body {
     margin:0;
-    width:auto !important;
+    width: auto;
     padding: 0;
     font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.5;
     color: #606c71;
-    display: block;
+    display: flex;
     justify-content: center;
 }
 
