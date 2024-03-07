@@ -76,6 +76,8 @@ table {
     border-color: #d2d2d2;
     border-stype: solid;
     border-width: 1px;
+    line-height: 1.5;
+    font-size: 16px;
 }
 
 table th {
