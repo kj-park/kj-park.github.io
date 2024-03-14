@@ -18,7 +18,7 @@ body {
     flex-basis: 1024px
     align-items: start;
     width: 100%;
-    margin:0;
+    margin: 2px;
     padding: 0;
 }
 
@@ -93,7 +93,7 @@ figure {
 }
 
 code {
-    padding: 2px 4px;
+    padding: 2px;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: #567482;
     background-color: #f3f6fa;
@@ -101,9 +101,9 @@ code {
 }
 
 pre {
-    padding: 0.8rem;
+    padding: 2px;
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
     font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: #567482;
     word-wrap: normal;
@@ -114,8 +114,8 @@ pre {
 }
 
 pre>code {
-    padding: 0;
     margin: 0;
+    padding: 0;
     color: #567482;
     word-break: normal;
     white-space: pre;
