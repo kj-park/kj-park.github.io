@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css");
 
 html {
-    font-family: sans-serif;
+     width: 100%;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
     flex-direction: column;
     align-items: start;
     width: 100%;
-    margin: 2px;
+    margin: 5px;
     padding: 0;
 }
 
@@ -30,11 +30,23 @@ h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: bold;
-    color: #004578;
+    color: #0078D4;
 }
 
 h1 {
     font-size: 2em;
+    margin: 0.67em 0;
+}
+h2 {
+    font-size: 1.75em;
+    margin: 0.67em 0;
+}
+h3 {
+    font-size: 1.5em;
+    margin: 0.67em 0;
+}
+h3 {
+    font-size: 1.25em;
     margin: 0.67em 0;
 }
 
@@ -130,7 +142,10 @@ pre code:after {
 ul,
 ol {
     padding: 0 0 0 0.5em;
-    margin: 0 0 0 1em;
+    margin: 1em 1em 1em 1em;
+}
+ul {
+    list-style-type: disc
 }
 
 blockquote {
