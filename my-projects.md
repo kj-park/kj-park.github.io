@@ -1,5 +1,7 @@
 ---
 layout: pages
+title: "Project Portfolio"
+description: "지금까지 수행한 프로젝트들에 대한 간략한 내용을 정리입니다."
 ---
 
 # Project Portfolio

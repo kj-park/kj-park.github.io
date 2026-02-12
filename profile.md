@@ -1,5 +1,7 @@
 ---
 layout: pages
+title: "Profile Summary"
+description: "프로파일 핵심 요약입니다."
 ---
 
 # Profile Summary
