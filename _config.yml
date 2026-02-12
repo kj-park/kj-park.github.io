@@ -1,4 +1,4 @@
-title: [Welcome My Portfolio Site]
+title: [Welcome My Portfolio]
 description: [This Site is for sharing my technical careers and my project portfolio.]
 theme: jekyll-theme-cayman
 timezone: Asia/Seoul
@@ -17,7 +17,7 @@ defaults:
             type: "pages"
         values:
             layout: "projects"
-            author: "kj-park"
+            author: "Kyoungjun Park"
             category: "projects"
     -
         scope:
