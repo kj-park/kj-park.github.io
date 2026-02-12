@@ -1,5 +1,7 @@
 ---
 layout: pages
+title: "About Me"
+description: "Microsoft 365 서비스 전문가입니다."
 ---
 
 # Microsoft 365 서비스 전문가
