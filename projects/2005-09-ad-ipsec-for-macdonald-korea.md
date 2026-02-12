@@ -2,6 +2,7 @@
 author: "kj-park"
 layout: "pages"
 title: "맥도날드: Active Directory Domain 배포 및 IPSec Domain Isolation 구현"
+description: "글로벌 Active Directory 포리스트에 한국 지역을 위한 region Active Directory domain 구성 및 IPSec 도메인 격리 구현"
 ---
 
 # Active Directory Domain 배포 및 IPSec Domain Isolation 구현
