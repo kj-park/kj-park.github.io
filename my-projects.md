@@ -20,11 +20,11 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 **소속:** TDG  
 **역할:** PM / 기술 아키텍트
 
-### 🔹 프로젝트 개요
+### 🔷 프로젝트 개요
 
 금융권 규제 환경을 충족하는 M365 및 Copilot 도입, 고급 보안 체계 구축
 
-### 🔹 주요 수행 내용
+### 🔷 주요 수행 내용
 
 - M365 및 Copilot 아키텍처 설계
 - Hybrid Identity 설계 및 구현
@@ -34,7 +34,7 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 - Purview (Information Protection, DLP) 설계
 - Defender XDR(MDCA, MDO) 설계
 
-### 🔹 특징
+### 🔷 특징
 
 - 정부 규제 및 금융권 보안 기준 대응
 - 보안·컴플라이언스 중심 아키텍처 설계
@@ -47,7 +47,7 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 **소속:** TDG  
 **역할:** PM / 기술 아키텍트
 
-### 🔹 주요 수행 내용
+### 🔷 주요 수행 내용
 
 - M365 및 Hybrid Identity 설계
 - AD Windows Server 2022 업그레이드
@@ -56,7 +56,7 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 - Intune 및 Conditional Access 구축
 - Purview 및 Defender XDR 구현
 
-### 🔹 특징
+### 🔷 특징
 
 - 온프레미스 인프라 업그레이드 + 클라우드 전환 동시 수행
 
@@ -68,7 +68,7 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 **소속:** TDG  
 **역할:** 기술 아키텍트
 
-### 🔹 주요 수행 내용
+### 🔷 주요 수행 내용
 
 - Multi-Forest (Account/Resource 분리) 환경 Hybrid Identity 설계
 - 사용자 정의 동기화 규칙 기반 계정 병합 설계
@@ -76,7 +76,7 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 - Exchange Online 마이그레이션
 - Intune, Conditional Access, Purview, Defender 설계
 
-### 🔹 특징
+### 🔷 특징
 
 - 복잡한 AD 구조 환경에서 고난도 Hybrid 설계 수행
 
@@ -88,14 +88,14 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 **소속:** TDG  
 **역할:** PM / 기술 아키텍트
 
-### 🔹 주요 수행 내용
+### 🔷 주요 수행 내용
 
 - 글로벌 테넌트 설계 및 협업/메시징 구축
 - Entra ID Join 및 Intune 정책 설계
 - Conditional Access 설계
 - Purview 및 Defender(MDE) 구현
 
-### 🔹 특징
+### 🔷 특징
 
 - 해외 법인 대상 글로벌 M365 설계
 
@@ -126,19 +126,19 @@ description: "지금까지 수행한 프로젝트들에 대한 간략한 내용�
 
 ## 📌 과거 주요 대기업/금융권 프로젝트 (요약)
 
-### ▪ 한화그룹
+### 🔷 한화그룹
 
 - Exchange 2010 → 2013 업그레이드
 - Lync → Skype for Business 마이그레이션
 
-### ▪ 제약/금융사 다수
+### 🔷 제약/금융사 다수
 
 - AD Restructuring
 - Exchange 2003/2010 → 2013/2016 업그레이드
 - Forest 간 개체 마이그레이션
 - AD 및 SQL 이중화 구성
 
-### ▪ 초기 경력 (유니마이크로테크놀러지)
+### 🔷 초기 경력 (유니마이크로테크놀러지)
 
 - Windows Server 전 세대 기술지원
 - Microsoft Korea 파견 근무
