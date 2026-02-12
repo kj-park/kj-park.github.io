@@ -1,3 +1,7 @@
+---
+author: "kj-park"
+layout: "pages"
+---
 
 # Active Directory Domain 배포 및 IPSec Domain Isolation 구현
 
