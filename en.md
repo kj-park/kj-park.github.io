@@ -86,7 +86,7 @@ I focus on:
 
 Below are selected enterprise projects focused on **Microsoft 365, Identity, Messaging, and Security**, delivered primarily in **regulated and large-scale enterprise environments**.
 
-For details refer to https://www.linkedin.com/in/kyoungjoonpark/details/projects/
+For details refer to [linkedin my projects](https://www.linkedin.com/in/kyoungjoonpark/details/projects/)
 
 ### Microsoft 365 Enterprise Adoption & Security Architecture
 
