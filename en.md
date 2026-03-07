@@ -76,9 +76,9 @@ I focus on:
 
 ## Contact
 
-- Email: working@live.co.kr  
-- LinkedIn: https://kr.linkedin.com/in/kyoungjoonpark/  
-- Portfolio: https://kj-park.github.io/en
+- Email: [working@live.co.kr](mailto:working@live.co.kr)  
+- LinkedIn: [https://kr.linkedin.com/in/kyoungjoonpark/](https://kr.linkedin.com/in/kyoungjoonpark/)
+- Portfolio: [https://kj-park.github.io/en](https://kj-park.github.io/en)
 
 ---
 
@@ -168,6 +168,4 @@ Across projects, responsibilities typically included:
 - Implementation oversight and stabilization support
 
 Projects were measured by **adoption, security posture, and operational sustainability**, not only by go-live success.
-
-
 
