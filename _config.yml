@@ -14,7 +14,7 @@ defaults:
     -
         scope:
             path: "projects"
-            type: "pages"
+            type: "projects"
         values:
             layout: "projects"
             author: "Kyoungjun Park"
