@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    {% include header-projects.html %}
+    <section class="page-header">
+      {% include header-projects.html %}
+    </section>
     <section class="main-content">
       {{ content }}
       {% include footer.html %}
