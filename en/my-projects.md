@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: projects
 title: "Project Portfolio"
 description: "Enterprise Microsoft 365 projects delivered across financial and large-scale enterprise environments."
 ---
