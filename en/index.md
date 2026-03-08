@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: projects
 title: Kyungjun Park | Microsoft 365 Architect
 description: Microsoft 365 specialist with strong expertise in **Microsoft 365 service**
 ---
