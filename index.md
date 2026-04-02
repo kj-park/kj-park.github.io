@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: "Welcome My Portfolio"
 description: "This Site is for sharing my technical careers and my project portfolio."
 ---
