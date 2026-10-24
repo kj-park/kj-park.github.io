@@ -15,10 +15,12 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    align-items: start;
-    width: 100%;
-    margin: 5px;
+    align-items: start;    
     padding: 0;
+    max-width: none !important;
+    width: 100% !important;
+    padding-left: 24px;
+    padding-right: 24px; 
 }
 
 h1,
