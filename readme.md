@@ -79,6 +79,13 @@ Sharing the Technology to everyone who want to know.
 
 ---
 
+List Testing
+
+- [ ] a
+- [X] b
+- [ ] c
+
+---
 ## GitHub Pages Configuration
 
 [!INCLUDE[GitHub Pages Configuration](includes/GitHub-Pages-Configuration)]

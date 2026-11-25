@@ -75,19 +75,6 @@ strong {
     font-weight: bold;
 }
 
-/* 체크박스 목록의 기본 bullet 제거 */
-li.task-list-item,
-li:has(> input[type="checkbox"]),
-li:has(> p > input[type="checkbox"]) {
-  list-style-type: none;
-}
-
-/* 체크박스를 기존 bullet 위치에 정렬 */
-li input[type="checkbox"] {
-  margin: 0 0.5em 0 -1.3em;
-  vertical-align: middle;
-}
-
 table {
     display: table;
     width: 100%;
@@ -198,4 +185,17 @@ dl dt {
 dl dd {
     padding: 0;
     margin-bottom: 1rem;
+}
+
+/* 체크박스 목록의 기본 bullet 제거 */
+li.task-list-item,
+li:has(> input[type="checkbox"]),
+li:has(> p > input[type="checkbox"]) {
+  list-style-type: none;
+}
+
+/* 체크박스를 기존 bullet 위치에 정렬 */
+li input[type="checkbox"] {
+  margin: 0 0.5em 0 -1.3em;
+  vertical-align: middle;
 }
