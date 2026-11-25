@@ -82,11 +82,19 @@ Sharing the Technology to everyone who want to know.
 List Testing
 
 - [ ] a
-- [X] b
+- [x] b
 - [ ] c
 
 ---
 ## GitHub Pages Configuration
+
+Markdown is rendered with `jekyll-commonmark-ghpages` and the `tasklist`
+extension configured in `_config.yml`. Use `- [ ]` for an unchecked task and
+`- [x]` for a checked task; HTML list tags are not needed. Existing HTML and
+tables are enabled by the renderer options.
+
+For a local build, install Ruby and Bundler, then run `bundle install` and
+`bundle exec jekyll build`.
 
 [!INCLUDE[GitHub Pages Configuration](includes/GitHub-Pages-Configuration)]
 
